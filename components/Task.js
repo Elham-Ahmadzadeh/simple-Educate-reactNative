@@ -21,12 +21,12 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'space-between',
-    marginBottom: 20
+    marginBottom: 20,
   },
   itemLeft: {
     flexDirection: 'row',
     alignItems: 'center',
-    flexWrap: 'wrap'
+    flexWrap: 'wrap',
   },
   square: {
     width: 24,
@@ -34,10 +34,10 @@ const styles = StyleSheet.create({
     backgroundColor: '#558CF6',
     opacity: 0.4,
     borderRadius: 5,
-marginRight: 15,
+    marginRight: 15,
   },
   itemText: {
-    maxWidth: '80%'
+    maxWidth: '80%',
   },
   circular: {
     width: 12,
